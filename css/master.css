@@ -1,0 +1,25 @@
+.pink{
+  height: 200px;
+  line-height: 200px;
+
+  border: 1px solid black;
+
+  text-align: center;
+
+  background-color: lightpink;
+}
+
+.red{
+  height: 200px;
+  line-height: 200px;
+
+  border: 1px solid white;
+
+  text-align: center;
+
+  background-color: #F07F80;
+}
+
+.nested{
+  padding: 5px 5px;
+}
